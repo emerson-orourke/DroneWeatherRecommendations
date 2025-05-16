@@ -1,6 +1,6 @@
 # File Name: droneweather.py
 # Description: Program will ask user for the weather and give recommondations for drone flight.
-# Author: Hayden O'Rourke
+# Author: Emerson O'Rourke
 # Goal of Project: Learn the basics of how APIs work.
 # Date of Completion: August 5, 2024
 # API Used: openweathermap.org
